@@ -1,5 +1,0 @@
-<div>
-<button class = "read-more" onclick = "loadDoc1()"> Hi</button>
-<p> this is the paragraph describing the nurse staffing project, the software used for it, the findings, and final recommendations obtained.
-</p>
-</div>
